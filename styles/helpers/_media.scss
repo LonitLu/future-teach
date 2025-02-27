@@ -47,7 +47,7 @@ $mobile-S: 480.98;
   }
 }
 
-@mixin mobile-S {
+@mixin mobile-s {
   @media (width <= rem($mobile-S)) {
     @content;
   }
